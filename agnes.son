@@ -1,0 +1,60 @@
+//33_10/16/96 weights:1.0,0.2,0.2
+NodeId	Label	StartTime	EndTime	NodeSize	NodeShape	ColorName	BorderWidth	BorderColor
+1	"Singer"	1.0	102.0	5.0	ellipse	darkGray	1.5	black
+2	"Agnes"	23.0	102.0	5.0	ellipse	darkGray	1.5	black
+3	"Jim"	24.5	102.0	5.0	ellipse	darkGray	1.5	black
+4	"Louise"	27.0	102.0	5.0	ellipse	darkGray	1.5	black
+5	"Harry"	30.0	102.0	5.0	ellipse	darkGray	1.5	black
+6	"Marie"	31.0	102.0	5.0	ellipse	darkGray	1.5	black
+7	"Giles"	40.0	102.0	5.0	ellipse	darkGray	1.5	black
+8	"Daphne"	41.0	102.0	5.0	ellipse	darkGray	1.5	black
+9	"Joan"	42.0	102.0	5.0	ellipse	darkGray	1.5	black
+10	"Blarney Stone"	45.0	102.0	5.0	rect	blue	1.5	black
+11	"Pierre"	46.0	102.0	5.0	ellipse	darkGray	1.5	black
+12	"Shiela"	47.0	102.0	5.0	ellipse	darkGray	1.5	black
+13	"Francois"	51.0	102.0	5.0	ellipse	darkGray	1.5	black
+14	"Jacques"	51.5	102.0	5.0	ellipse	darkGray	1.5	black
+15	"Max"	57.0	102.0	5.0	ellipse	darkGray	1.5	black
+16	"Edith"	58.0	102.0	5.0	ellipse	darkGray	1.5	black
+17	"Edith's Daddy"	61.0	102.0	5.0	ellipse	darkGray	1.5	black
+18	"Daniel"	65.0	102.0	5.0	ellipse	darkGray	1.5	black
+19	"Daniel's spaniel"	66.0	102.0	5.0	rect	black	1.5	black
+20	"dentist"	68.0	102.0	5.0	ellipse	darkGray	1.5	black
+21	"Sue"	77.0	102.0	5.0	ellipse	darkGray	1.5	black
+22	"Millie"	78.0	102.0	5.0	ellipse	darkGray	1.5	black
+23	"Billie"	78.5	102.0	5.0	ellipse	darkGray	1.5	black
+24	"Gillie"	79.0	102.0	5.0	ellipse	darkGray	1.5	black
+25	"Willie"	79.5	102.0	5.0	ellipse	darkGray	1.5	black
+26	"the pub"	82.0	102.0	5.0	rect	blue	1.5	black
+27	"the club"	83.0	102.0	5.0	rect	blue	1.5	black
+28	"the loo"	84.0	102.0	5.0	rect	blue	1.5	black
+29	"you"	85.0	102.0	10.0	ellipse	orange	1.5	black
+30	"??"	71.0	102.0	5.0	rect	blue	1.5	black
+FromId	ToId	StartTime	EndTime	ArcWeight	ArcWidth	ColorName
+2	1	23.0	102.0	1.0	8.0	red
+3	2	24.5	102.0	1.0	8.0	red
+4	3	27.0	102.0	0.5	2.0	gray
+5	4	30.0	102.0	1.0	8.0	red
+6	5	31.5	102.0	1.0	8.0	red
+1	6	35.5	102.0	1.0	8.0	red
+8	7	40.0	102.0	1.0	8.0	red
+9	8	41.0	102.0	1.0	8.0	red
+10	9	45.0	102.0	1.0	8.0	red
+11	12	47.0	102.0	1.0	8.0	red
+12	10	49.0	102.0	0.5	2.0	gray
+13	11	51.0	102.0	1.0	8.0	red
+14	11	51.5	102.0	1.0	8.0	red
+16	15	58.0	102.0	1.0	8.0	red
+17	16	61.0	102.0	1.0	8.0	red
+16	18	65.0	102.0	1.0	8.0	red
+18	19	66.0	102.0	0.5	2.0	gray
+30	20	71.0	102.0	0.5	2.0	gray
+21	1	77.0	102.0	0.5	2.0	gray
+22	1	78.0	102.0	0.5	2.0	gray
+23	1	78.5	102.0	0.5	2.0	gray
+24	1	79.0	102.0	0.5	2.0	gray
+25	1	79.5	102.0	0.5	2.0	gray
+26	1	82.0	102.0	0.5	2.0	gray
+27	1	83.0	102.0	0.5	2.0	gray
+28	1	84.0	102.0	0.5	2.0	gray
+1	29	95.0	102.0	0.5	2.0	gray

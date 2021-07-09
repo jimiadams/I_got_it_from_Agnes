@@ -1,6 +1,6 @@
 # I got it from Agnes
 
-Years ago, I created what likely is the most ridiculous example of a network visualization I've ever put together. It's the network of implied diffusion from Tom Lehrer's song "I got it from Agnes":
+Years ago, I created what likely is the most ridiculous example of a network visualization I've ever put together. It's the network of implied diffusion from Tom Lehrer's song "I got it from Agnes" (YouTube link):
 
 [![I got it from Agnes](https://img.youtube.com/vi/kgdq80BF190/0.jpg)](https://www.youtube.com/watch?v=kgdq80BF190 "I got it from Agnes")
 
